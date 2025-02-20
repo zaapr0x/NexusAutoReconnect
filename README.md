@@ -21,7 +21,7 @@ function checkAndClick() {
 // Run the check periodically every 2 seconds
 setInterval(checkAndClick, 2000);
 ```
-* If You don't know how to open browser console
+> If You don't know how to open browser console
 
   
 It's So Simple, You Can Do Right Click Then Select Inspect Element Or Press `F12` Then Navigate To Console Tab
