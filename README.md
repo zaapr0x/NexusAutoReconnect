@@ -21,6 +21,10 @@ function checkAndClick() {
 // Run the check periodically every 2 seconds
 setInterval(checkAndClick, 2000);
 ```
-## ( I dont know how to open browser console )
-* Right Click Then Select Inspect Element Or Press F12 Then Navigate To Console Tab
+* If You don't know how to open browser console
+
+  
+It's So Simple, You Can Do Right Click Then Select Inspect Element Or Press `F12` Then Navigate To Console Tab
+
+
 <img src="https://raw.githubusercontent.com/zaapr0x/NexusAutoReconnect/refs/heads/main/guide.webp" width=100%/>
